@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Restuarant",
+    "slug": "Restuarant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconn.png",
+    "userInterfaceStyle": "light",
+     
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconn.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
